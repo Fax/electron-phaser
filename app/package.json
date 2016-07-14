@@ -1,10 +1,10 @@
 {
-  "name": "electron-boilerplate",
-  "productName": "Electron Boilerplate",
-  "description": "Starter for your Electron application. Out of the box ready for serious stuff.",
+  "name": "electron-phaser",
+  "productName": "Electron Phaser Boilerplate",
+  "description": "The first tutorial taken from the phaser website and embedded in electron",
   "version": "0.1.0",
-  "author": "Mr Gumby",
-  "copyright": "© 2016, your company here",
+  "author": "Fax",
+  "copyright": "© 2016, Fabrizio Rapelli",
   "main": "background.js",
   "dependencies": {
     "fs-jetpack": "^0.9.0"

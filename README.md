@@ -18,9 +18,9 @@ Follow the README on the repository https://github.com/szwacz/electron-boilerpla
 
 # License
 
-The MIT License (MIT)
+MIT License
 
-Copyright (c) 2015-2016 Jakub Szwacz
+Copyright (c) [2016] [Fabrizio Rapelli]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
