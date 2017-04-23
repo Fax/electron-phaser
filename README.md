@@ -9,7 +9,7 @@ This repository is a merge of two different repositories :
 git clone https://github.com/Fax/electron-phaser
 cd electron-phaser
 npm install
-gulp start
+npm start
 ```
 
 # Usages
